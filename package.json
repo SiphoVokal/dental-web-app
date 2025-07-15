@@ -20,7 +20,7 @@
     "clsx": "^2.1.1",
     "lucide-react": "^0.454.0",
     "next": "14.2.16",
-    "react": "^18",
+    "react": "^18.3.1",
     "react-dom": "^18",
     "shadcn": "latest",
     "tailwind-merge": "^2.5.5",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@types/node": "^22",
-    "@types/react": "^18",
+    "@types/react": "^18.3.23",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.56.0",
